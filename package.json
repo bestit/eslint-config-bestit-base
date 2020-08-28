@@ -1,0 +1,18 @@
+{
+  "name": "eslint-config-bestit-base",
+  "version": "1.0.0",
+  "description": "bestit-internal eslint configuration",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bestit/eslint-config-bestit-base.git"
+  },
+  "author": "Sebastian Langer <sebastian.langer@bestit.de>",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^7.7.0"
+  }
+}

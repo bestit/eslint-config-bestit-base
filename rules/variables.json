@@ -1,0 +1,11 @@
+{
+	"rules": {
+		"no-delete-var": "error",
+		"no-shadow": "error",
+		"no-shadow-restricted-names": "error",
+		"no-undef": "error",
+		"no-undef-init": "error",
+		"no-unused-vars": ["error", { "argsIgnorePattern": "^_", "args": "after-used", "ignoreRestSiblings": true }],
+		"no-use-before-define": "error"
+	}
+}
