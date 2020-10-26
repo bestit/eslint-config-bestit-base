@@ -22,7 +22,7 @@
 		"key-spacing": ["error", { "mode": "minimum" }],
 		"keyword-spacing": ["error", { "before": true, "after": true }],
 		"linebreak-style": ["error", "unix"],
-		"lines-around-comment": ["error", { "beforeBlockComment": true, "afterLineComment": false, "afterBlockComment": false, "applyDefaultIgnorePatterns": false, "ignorePattern": "webpack" }],
+		"lines-around-comment": ["error", { "beforeBlockComment": true, "afterLineComment": false, "afterBlockComment": false, "applyDefaultIgnorePatterns": false, "ignorePattern": "webpack", "allowObjectStart": true, "allowArrayStart": true, "allowBlockStart": true }],
 		"lines-between-class-members": ["error", "always", { "exceptAfterSingleLine": true }],
 		"max-depth": ["error", 7],
 		"max-len": ["error", 120],

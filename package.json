@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-bestit-base",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "bestit-internal eslint configuration",
   "keywords": [
     "eslint",
