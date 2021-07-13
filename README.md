@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-npm install --dev eslint-config-bestit-base
+npm install --dev @best-it/eslint-config-base
 ```
 
 ## Usage
@@ -14,6 +14,6 @@ Set your `.eslintrc` config to:
 
 ```json
 {
-  "extends": "eslint-config-bestit-base"
+  "extends": "@best-it/eslint-config-base"
 }
 ```
